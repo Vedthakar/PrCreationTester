@@ -8,11 +8,15 @@ This project started as an MVP to prove that AI-assisted PR generation could wor
 
 ---
 
-## Demo Video
+## Demo Videos
 
-![Watch the demo part 1](https://www.loom.com/share/5df7a527ab3d42528a12facc9d39d5f2)
+### Part 1: Automating Task Creation in Jira with AI Integration
+[![Watch demo part 1](https://cdn.loom.com/sessions/thumbnails/5df7a527ab3d42528a12facc9d39d5f2-662485c9f1951da2-full-play.gif)](https://www.loom.com/share/5df7a527ab3d42528a12facc9d39d5f2)
 
-![Watch the demo part 2](https://www.loom.com/share/76b539ca4a614e89bff6b51dc202e45b)
+Direct link: [Watch Part 1](https://www.loom.com/share/5df7a527ab3d42528a12facc9d39d5f2)
+
+### Part 2: Automating Branch Creation in GitHub from Jira Tickets
+[![Watch demo part 2](https://cdn.loom.com/sessions/thumbnails/76b539ca4a614e89bff6b51dc202e45b-1c20f662ae99b0ec-full-play.gif)](https://www.loom.com/share/76b539ca4a614e89bff6b51dc202e45b)
 
 ## What this project is
 
