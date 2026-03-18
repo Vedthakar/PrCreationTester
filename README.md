@@ -10,9 +10,9 @@ This project started as an MVP to prove that AI-assisted PR generation could wor
 
 ## Demo Video
 
-[![Watch the demo part 1]([https://cdn.loom.com/sessions/thumbnails/76b539ca4a614e89bff6b51dc202e45b-with-play.gif)](https://www.loom.com/share/76b539ca4a614e89bff6b51dc202e45b](https://www.loom.com/share/5df7a527ab3d42528a12facc9d39d5f2))
+![Watch the demo part 1](https://www.loom.com/share/5df7a527ab3d42528a12facc9d39d5f2)
 
-[![Watch the demo part 2]([https://cdn.loom.com/sessions/thumbnails/76b539ca4a614e89bff6b51dc202e45b-with-play.gif)](https://www.loom.com/share/76b539ca4a614e89bff6b51dc202e45b](https://www.loom.com/share/76b539ca4a614e89bff6b51dc202e45b))
+![Watch the demo part 2](https://www.loom.com/share/76b539ca4a614e89bff6b51dc202e45b)
 
 ## What this project is
 
